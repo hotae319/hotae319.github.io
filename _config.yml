@@ -12,12 +12,11 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://www.linkedin.com/in/hotae-lee/
+    - https://about.me/hotaelee
+    - https://github.com/hotae319
+    
 
 # THEME SETTINGS
 navigation: # Navigation links
