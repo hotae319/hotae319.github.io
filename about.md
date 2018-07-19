@@ -3,11 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a robotics engineer who is interested in control, optimization and machine learning. To be detailed, I am fascinated with some complicated systems such as legged robot's locomotion and multi-robots cooperation.
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+I was born in 1993, March 19 and graduated from Seoul Science High School, which is for scientific-gifted students.
+I graduated from Seoul National University in August, 2018. I am majored in mechanical & aerospace engineering. After graduation, I am preparing to apply to graduate schools in America. Moreover, I am working at Naverlabs robotics group. You can also search for me at this site, [about.me/hotaelee](http://about.me/hotaelee) or inspect in detail by reading this page [research](/research)
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
