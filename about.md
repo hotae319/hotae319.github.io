@@ -9,4 +9,4 @@ I was born in 1993, March 19 and graduated from Seoul Science High School, which
 I graduated from Seoul National University in August, 2018. I am majored in mechanical & aerospace engineering. After graduation, I am preparing to apply to graduate schools in America. Moreover, I am working at Naverlabs robotics group. You can also search for me at this site, [about.me/hotaelee](http://about.me/hotaelee) or inspect in detail by reading this page [research](/research)
 
 ![my profile]({{ "/assets/hotae_profile.jpg" | absolute_url }})
-<img style="float: right;" src="/assets/hotae_profile.jpg">
+<img align="right" src= "/assets/hotae_profile.jpg">
