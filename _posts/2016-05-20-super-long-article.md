@@ -6,6 +6,8 @@ categories: [Sample, Guides]
 ---
 
 From March 2017 to December 2017, I researched about jumping robot's control at INROL(Interactive & Networed RObotics Lab). While I was working on this project, I focused on control for nonholonomic systems, under-actuated systems, and hybrid system. 
+
+My findings proposed a stable posture control frame that takes into account features of jumping such as the limit of joint angle range or the short duration of a flight.
 <!--
 <p align="center">
   <img src="/assets/jumping/poster1.jpg" width="500" height="500">
@@ -17,7 +19,8 @@ From March 2017 to December 2017, I researched about jumping robot's control at 
 
 <img src="/assets/jumping/poster1.jpg"  alt="poster1" height="280"> <img src="/assets/jumping/poster2.jpg" height="280">
 
-<img src="/assets/jumping/poster3.jpg"  alt="poster3" height="250"> <img src="/assets/jumping/poster4.jpg" height="300">
+<img src="/assets/jumping/poster3.jpg"  alt="poster3" height="250"> 
+<img src="/assets/jumping/poster4.jpg" height="250"> <img src="/assets/jumping/poster5.jpg"  alt="poster3" height="500"> <img src="/assets/jumping/poster6.jpg" height="250">
 <!--
 ![poster3](/assets/jumping/poster3.jpg =100x20)  ![poster4](/assets/jumping/poster4.jpg){: width="50" height="50"}
 -->
