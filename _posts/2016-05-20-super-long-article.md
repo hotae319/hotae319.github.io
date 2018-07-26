@@ -1,12 +1,21 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
-featured-img: shane-rounce-205187
+title: "Controlling Posture of Jumping Articulated Robot for Stable Landing"
+featured-img: simulation_motion
 categories: [Sample, Guides]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+From March 2017 to December 2017, I researched about jumping robot's control at INROL(Interactive & Networed RObotics Lab). While I was working on this project, I focused on control for nonholonomic systems, under-actuated systems, and hybrid system. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+<p align="center">
+  <img src="/assets/jumping/poster1.jpg">
+</p>
+<p align="center">
+  <img src="/assets/jumping/poster2.jpg">
+</p>
+![poster3]("/assets/jumping/poster3.jpg") | ![poster4]("/assets/jumping/poster4.jpg")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+With this topic, I published a conference paper for the 2018 IEEE Conference on Ubiquitous Robots (UR) and presented it as a spotlight talk at the conference. After this work, I continued further to study passive configuration decomposition and passivity based stabilization control for nonholonomic systems. 
+
+![poster3]("/assets/jumping/ur1.jpg") | ![poster4]("/assets/jumping/ur2.jpg")
+
