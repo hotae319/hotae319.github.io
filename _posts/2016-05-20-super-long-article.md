@@ -8,10 +8,10 @@ categories: [Sample, Guides]
 From March 2017 to December 2017, I researched about jumping robot's control at INROL(Interactive & Networed RObotics Lab). While I was working on this project, I focused on control for nonholonomic systems, under-actuated systems, and hybrid system. 
 
 <p align="center">
-  <img src="/assets/jumping/poster1.jpg" width="100" height="100">
+  <img src="/assets/jumping/poster1.jpg" width="500" height="500">
 </p>
 <p align="center">
-  <img src="/assets/jumping/poster2.jpg">
+  <img src="/assets/jumping/poster2.jpg" height="300">
 </p>
 
 ![poster3](/assets/jumping/poster3.jpg){: height="50"}  ![poster4](/assets/jumping/poster4.jpg){: width="50" height="50"}
