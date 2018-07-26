@@ -17,11 +17,11 @@ My findings proposed a stable posture control frame that takes into account feat
 </p>
 -->
 
-<img src="/assets/jumping/poster1.jpg"  alt="poster1" width="500" height="280">  <img src="/assets/jumping/poster2.jpg" width="500" height="280">
+<img src="/assets/jumping/poster1.jpg"  alt="poster1" width="450" height="280">  <img src="/assets/jumping/poster2.jpg" width="450" height="280">
 
-<img src="/assets/jumping/poster3.jpg"  alt="poster3" width="1000" height="250"> 
+<img src="/assets/jumping/poster3.jpg"  alt="poster3" width="900" height="250"> 
 
-<img src="/assets/jumping/poster456.jpg" width="1000" height="500">
+<img src="/assets/jumping/poster456.jpg" width="900" height="500">
 <!--
 ![poster3](/assets/jumping/poster3.jpg =100x20)  ![poster4](/assets/jumping/poster4.jpg){: width="50" height="50"}
 -->
