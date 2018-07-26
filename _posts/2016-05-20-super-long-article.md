@@ -10,7 +10,7 @@ From March 2017 to December 2017, I researched about jumping robot's control at 
 My findings proposed a stable posture control frame that takes into account features of jumping such as the limit of joint angle range or the short duration of a flight.
 
 <p align="center">
-<img src="/assets/jumping/poster1.jpg"  alt="poster1" width="400" height="280">  <img src="/assets/jumping/poster2.jpg" width="400" height="280">
+<img src="/assets/jumping/poster1.jpg"  alt="poster1" width="200" height="280">  <img src="/assets/jumping/poster2.jpg" width="400" height="280">
 
 <img src="/assets/jumping/poster3.jpg"  alt="poster3" width="800" height="250"> 
 
