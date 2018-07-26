@@ -10,7 +10,7 @@ However, you can contact me through some university e-mail such as [SNU-email](m
 Also, my cell phone number is 82-10-8989-9320.
 
 ---
-Fill in the form to discuss my next project or past projects.
+*Fill in the form to discuss my next project or past projects.*
 
 {% include form.html %}
 
