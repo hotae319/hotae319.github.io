@@ -14,7 +14,7 @@ From March 2017 to December 2017, I researched about jumping robot's control at 
   <img src="/assets/jumping/poster2.jpg" height="300">
 </p>
 
-![poster3](/assets/jumping/poster3.jpg){: height="50"}  ![poster4](/assets/jumping/poster4.jpg){: width="50" height="50"}
+![poster3](/assets/jumping/poster3.jpg =100x20)  ![poster4](/assets/jumping/poster4.jpg){: width="50" height="50"}
 
 With this topic, I published a conference paper for the 2018 IEEE Conference on Ubiquitous Robots (UR) and presented it as a spotlight talk at the conference. After this work, I continued further to study passive configuration decomposition and passivity based stabilization control for nonholonomic systems. 
 
