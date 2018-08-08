@@ -12,7 +12,6 @@ My findings proposed a stable posture control frame that takes into account feat
 <p align="center">
 <img src="/assets/jumping/poster1.jpg"  alt="poster1" width="400" height="280">  <img src="/assets/jumping/poster2.jpg" width="400" height="280">
 
-![](/assets/jumping/poster1.jpg){: width="100px" height="20px"}
 
 <img src="/assets/jumping/poster3.jpg"  alt="poster3" width="800" height="250"> 
 
