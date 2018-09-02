@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Controlling Posture of Jumping Articulated Robot for Stable Landing"
-featured-img: simulation_motion
+featured-img: shane-rounce-205187.jpg
 categories: [Sample, Guides]
 ---
 
