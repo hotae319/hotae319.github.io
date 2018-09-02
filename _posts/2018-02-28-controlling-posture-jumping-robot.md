@@ -21,6 +21,6 @@ My findings proposed a stable posture control frame that takes into account feat
 With this topic, I published a conference paper for the 2018 IEEE Conference on Ubiquitous Robots (UR) and presented it as a spotlight talk at the conference. After this work, I continued further to study passive configuration decomposition and passivity based stabilization control for nonholonomic systems. 
 
 <p align="center">
-<img src="/assets/jumping/ur1.jpg" width="250" height="350"> <img src="/assets/jumping/ur2.jpg" width="550" height="350">
+<img src="/assets/jumping/ur.jpg" width="250" height="350"> 
 </p>
 
