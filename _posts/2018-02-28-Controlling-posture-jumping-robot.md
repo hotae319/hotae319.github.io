@@ -6,9 +6,9 @@ featured-img: simulation_motion
 
 # What I did
 
-***Skill : Matlab, Simulink, C***
+-***Skill*** : Matlab, Simulink, C
 
-***Keywords : Feedback linerization, Gain optimization with Greedy Algorithm, Passive decomposition, Robust Passivity-based control***
+-***Keywords*** : Feedback linerization, Gain optimization with Greedy Algorithm, Passive decomposition, Robust Passivity-based control
 
 From March 2017 to December 2017, I researched about jumping robot's control at INROL(Interactive & Networed RObotics Lab). While I was working on this project, I focused on control for nonholonomic systems, under-actuated systems, and hybrid system. 
 
