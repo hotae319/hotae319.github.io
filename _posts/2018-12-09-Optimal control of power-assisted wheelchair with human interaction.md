@@ -8,6 +8,10 @@ featured-img: wheelchair
 
 # What I did
 
+- ***Skill*** : C/C++, Arduino, System Integration(MCU, IMU, BLDC Motor, Motor Driver etc.)
+
+- ***Keywords*** : Power-Assisted, Disturbance Observer, Dynamics and Kalman Filter Observer, Constrained Optimal Control, Model Predicitve Control, Human-Interaction 
+
 Let's say how and why I started my project in `NAVER LABS`.
 
 I seriously wondered about the practicality of using theories in real robotic applications because my projects were mainly simulation based. 
