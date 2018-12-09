@@ -2,14 +2,14 @@
 layout: post
 title: Optimal control of power-assisted wheelchair with human interaction
 summary: Developed the adaptive optimal controller of power-assisted wheelchair with human-interaction and Integrated whole system from sensors and controller to communications
-featured-img: emile-perron-190221
+featured-img: wheelchair
 
 ---
 
 # What I did
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder 
+Let's say how and why I started my project in `NAVER LABS`.
+
 I seriously wondered about the practicality of using theories in real robotic applications because my projects were mainly simulation based. 
 To explore this curiosity, I worked at NAVER LABS Robotics group. I seized the opportunity to develop a human-interaction wheelchair controller. 
 While I integrated all parts from sensors to communications, I became equipped with more practical skills. 
