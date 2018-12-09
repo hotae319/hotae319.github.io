@@ -10,7 +10,7 @@ There are a lot of publications
 
 **H. Lee**, *"Controlling Posture of Jumping Articulated Robot for Stable Landing"*, in Proceedings of
 the 15th IEEE Conference on Ubiquitous Robots (UR), Hawaii, USA, June, 2018
-pdf link : [get the PDF]({{ "https://hotae319.github.io/assets/mydoc.pdf" | /assets/UR_regular_paper_HotaeLee.pdf }})
+pdf link : [get the PDF]({{ "https://hotae319.github.io/assets/UR_regular_paper_HotaeLee.pdf" | /assets/UR_regular_paper_HotaeLee.pdf }})
 
 K. Kim, J. Kim, **H. Lee**, J. Moon, M. Kim(all co-authors), *"Power-Assisted Wheelchair Platform
 based on Loadcell Interface for the Elderly"*, in Proceedings of the 14th Korea Robotics Society Annual
