@@ -20,4 +20,4 @@ featured-img: manipulator
   <img src="/assets/img/posts/mani1.jpg">
 </p>
 
-You can read my [final report paper](https://github.com/hotae319/hotae319.github.io/blob/master/assets/Hotae_Lee_FinalProject_Robot%20Mechanics.pdf)
+You can read my [final report paper](https://hotae319.github.io/assets/Hotae_Lee_FinalProject_Robot%20Mechanics.pdf). It was not complete form but you can check what I did and how I did. 
