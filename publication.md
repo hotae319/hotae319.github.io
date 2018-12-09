@@ -4,7 +4,6 @@ title: Publications
 
 ---
 
-
 ## Publication List
 
 - **H. Lee**, *"Controlling Posture of Jumping Articulated Robot for Stable Landing"*, in Proceedings of
