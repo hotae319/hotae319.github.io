@@ -7,6 +7,11 @@ featured-img: multirobot
 
 # What I did
 
+- ***Skill*** : Python, Tensorflow, OpenAI gym
+
+- ***Keywords*** : Q-learning, Deep Q-Network, Revised Mini-batch sampling method, planning based Reinforcement Learning
+
+
 From March 2018 to June 2018, I researched about stochastic control and reinforcement learning at SNU graduate lecture. While I was participating in this lecture, I focused on how to apply reinforcement learning to robotics research. Therefore, I decided the project topic about application of reinforcement learning to multi-robot cooperation problem. In particular, I performed optimal planning to carry on objects for two agents while avoiding obstacles. I utilized Deep Q-Network with my revised mini-batch sampling method to solve the unevenly distributed-reward planning problem. This experience taught me the potential of RL as a breakthrough to generate the reward-maximized motion trajectory in robotics without an exact reference. With physical uncertainties, RL can also help optimize control and planning for robust and successful performance rather than conventional optimal filtering method. 
 
 # Sum up Slides
