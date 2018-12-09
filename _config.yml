@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Publications', link: '/publication'}  
 
 tagline: >
-  Robotics engineer interested in control, optimization, motion planning and machine learning
+  Robotics engineer interested in control, optimization, planning and machine learning
 
 hero_img: posts/emile-perron-190221_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
