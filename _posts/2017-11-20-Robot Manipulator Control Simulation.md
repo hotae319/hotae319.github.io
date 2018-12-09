@@ -19,3 +19,5 @@ featured-img: manipulator
 <p align="center">
   <img src="/assets/img/posts/mani1.jpg">
 </p>
+
+You can read my [final report paper](https://github.com/hotae319/hotae319.github.io/blob/master/assets/Hotae_Lee_FinalProject_Robot%20Mechanics.pdf)
