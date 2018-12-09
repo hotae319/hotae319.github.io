@@ -23,7 +23,9 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Research', link: '/research'}
   - {name: 'Publications', link: '/publication'}  
+  
 
 tagline: >
   Robotics engineer interested in control, optimization, planning and machine learning
