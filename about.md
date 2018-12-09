@@ -8,7 +8,7 @@ I am a robotics engineer who is interested in **control, optimization, motion pl
 I was born in 1993, March 19 and graduated from _Seoul Science High School_, which is for scientific-gifted students.
 I graduated 'summa cum laude' from _Seoul National University_ in August, 2018 and I was awarded the honor graduation prize from alumni association (GPA 4.14/4.30, Major GPA 4.17/4.30). I am majored in mechanical & aerospace engineering and had two research experiences at SNU Biorobotics Lab advised by Kyujin Cho(2017.01 ~ 2017.02) and SNU Interactive and Networked Robotics Lab advised by Dongjun Lee(2017.03 ~ 2018.07). After graduation, I am preparing to apply to graduate schools in America. <U>I was already selected as a recipient of the Korean Government Ph.D. Scholarship for Study Overseas.</U> Moreover, I am working at Naverlabs robotics group to be equipped with practical skill sets. 
 
-*Technical Skills* : C/C++, MATLAB, Arduino, Python, LabView / ROS, TensorFlow, LaTeX, OpenAI gym / SolidWorks, CATIA
+*Technical Skills : C/C++, MATLAB, Arduino, Python, LabView / ROS, TensorFlow, LaTeX, OpenAI gym / SolidWorks, CATIA*
 
 
 You can also search for me at this site, [about.me/hotaelee](http://about.me/hotaelee) or inspect in detail by reading this page [research](/publication)
