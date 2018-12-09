@@ -11,7 +11,7 @@ I graduated 'summa cum laude' from _Seoul National University_ in August, 2018 a
 *Technical Skills : C/C++, MATLAB, Arduino, Python, LabView / ROS, TensorFlow, LaTeX, OpenAI gym / SolidWorks, CATIA*
 
 
-You can also search for me at this attached [Curriculum Vitae] (https://hotae319.github.io/assets/CV_hotaelee.pdf) or inspect in detail by reading this page [research](/publication)
+You can also search for me at this attached [Curriculum Vitae](https://hotae319.github.io/assets/CV_hotaelee.pdf) or inspect in detail by reading this page [research](/publication)
 
 <p align="center">
   <img src="/assets/hotae_profile.jpg">
