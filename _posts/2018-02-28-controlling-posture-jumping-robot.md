@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Controlling Posture of Jumping Articulated Robot for Stable Landing"
-featured-img: dac
+featured-img: simulation_motion
 ---
 
 From March 2017 to December 2017, I researched about jumping robot's control at INROL(Interactive & Networed RObotics Lab). While I was working on this project, I focused on control for nonholonomic systems, under-actuated systems, and hybrid system. 
