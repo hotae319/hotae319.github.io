@@ -22,3 +22,5 @@ From March 2018 to June 2018, I researched about stochastic control and reinforc
 <img src="/assets/RL_project/RL2.jpg"  alt="presentation2" width="800"> 
 
 </p>
+
+You can read my [final paper](https://hotae319.github.io/assets/SCRL_Project_paper_Hotae_Lee.pdf) about this work.
