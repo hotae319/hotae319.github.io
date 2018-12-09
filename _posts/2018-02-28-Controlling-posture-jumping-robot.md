@@ -6,6 +6,9 @@ featured-img: simulation_motion
 
 # What I did
 
+***Skill : Matlab, Simulink, C ***
+***Keywords : Feedback linerization, Gain optimization with Greedy Algorithm, Passive decomposition, Robust Passivity-based control ***
+
 From March 2017 to December 2017, I researched about jumping robot's control at INROL(Interactive & Networed RObotics Lab). While I was working on this project, I focused on control for nonholonomic systems, under-actuated systems, and hybrid system. 
 
 My first research objective was to design a control framework for a jumping robot’s stable landing to keep going. To tackle this under-actuated nonlinear system, I implemented partial feedback linearization with precise modeling and time-varying feedback control to utilize angular momentum conservation. Moreover, by considering the practical constraints of jumping, such as joint limits and short flight duration, I suggested optimal control algorithms via the gradient descent method. 
