@@ -12,6 +12,6 @@ title: Research
 
 - **Reinforcement Learning for Multi-Mobile Manipulators Cooperation with Obstacle Avoidance** [Link](https://hotae319.github.io/Reinforcement-Learning-for-Multi-robot-cooperation/)
 
-- **Control robot manipulator named ABB IRB-1200-5 to accomplish the given various task** [Link](https://hotae319.github.io/Robot-Manipulator-Control-Simulation/)
+- **Control Robot Manipulator named ABB IRB-1200-5 to Accomplish the Given Various Task** [Link](https://hotae319.github.io/Robot-Manipulator-Control-Simulation/)
 
 - **Development of Fitness Automatic Record and Analysis Solution** [Link](https://hotae319.github.io/Development-of-Fitness-Automatic-Record-and-Analysis-Solution/)
