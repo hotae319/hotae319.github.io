@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimal control of power-assisted wheelchair with human interaction
+title: Optimal Control of Power-Assisted Wheelchair with Human Interaction
 summary: Developed the adaptive optimal controller of power-assisted wheelchair with human-interaction and Integrated whole system from sensors and controller to communications
 featured-img: wheelchair
 
