@@ -17,6 +17,8 @@ This lecture has a purpose to find the customer's needs and resolve the problem 
 I created MATLAB functions and Arduino code to analyze attitude data from IMU and send PID feedback to maintain a particular attitude, which earned me an excellence prize.
 Our system saved their excercise records automatically and showed them intuitively. Moreover, it provided analyzed data about it. 
 
+# Figure about our project
+
 <p align="center">
   <img src="/assets/health/health.jpg">
 </p>
