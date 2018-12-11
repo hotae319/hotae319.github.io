@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Control robot manipulator named ABB IRB-1200-5 to accomplish the given task such as picking up, removing rust and polishing"
+title: "Control Robot Manipulator named ABB IRB-1200-5 to accomplish the given task such as picking up, removing rust and polishing"
 featured-img: manipulator
 ---
 
