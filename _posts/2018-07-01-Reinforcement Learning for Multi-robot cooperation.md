@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinforcement Learning for multi-mobile manipulators cooperation with obstacle avoidance
+title: Reinforcement Learning for Multi-Mobile Manipulators Cooperation with Obstacle Avoidance
 summary: In this research, I apply DQN(Deep Q-network) to solving the cooperative carrying object problem. To optimize the learning method for navigation problem, this work uses curriculum learning and develops revised mini-batch sampling method which always includes a success state. Also, this work uses the method which reduces the action space through allocating one step for one agent.
 featured-img: multirobot
 ---
