@@ -32,7 +32,7 @@ These two figures are our prototypes. The left thing is the first prototype whic
 The right thing is the second prototype which focused on the driving performance such as suspension, wheel type and motor power.
 
 <p align="center">
-  <img src="/assets/wheelchair/control1.jpg">
+  <img src="/assets/wheelchair/control2.jpg">
 </p>
 
 This is a fundamental power-assisted control diagram. It includes the basic system of this wheelchair platform. After this control diagram, I developed the constrained optimal control algorithms with Disturbance Observer and Dynamic equation based Kalman filtering Observer. 
