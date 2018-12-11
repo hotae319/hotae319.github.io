@@ -7,7 +7,7 @@ title: Publications
 ## Publication List
 
 - **H. Lee**, *"Controlling Posture of Jumping Articulated Robot for Stable Landing"*, in Proceedings of
-the 15th IEEE Conference on Ubiquitous Robots (UR), Hawaii, USA, June, 2018 &nbsp;&nbsp;&nbsp;&nbsp;   [get the PDF](https://hotae319.github.io/assets/UR_regular_paper_HotaeLee.pdf)
+the 15th IEEE Conference on Ubiquitous Robots (UR), Hawaii, USA, June, 2018 &nbsp;&nbsp;&nbsp;&nbsp;   [get the PDF](https://hotae319.github.io/assets/UR_Published_Hotae_Lee.pdf)
 
 - K. Kim, J. Kim, **H. Lee**, J. Moon, M. Kim(all co-authors), *"Power-Assisted Wheelchair Platform
 based on Loadcell Interface for the Elderly"*, in Proceedings of the 14th Korea Robotics Society Annual
