@@ -29,10 +29,11 @@ navigation: # Navigation links
 
 tagline: >
   Robotics engineer interested in control, optimization, planning and machine learning
+  UC Berkeley Graduate Student Researcher in MPC Lab
 
 hero_img: posts/emile-perron-190221_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: hotae319@snu.ac.kr # email for form submission
+email: hotae.lee@berkeley.edu # email for form submission
 
 twitter_username: hotae319 # replace with your_twitter_username or comment to remove link from footer
 github_username:  hotae319 # replace with your_github_username or comment to remove link from footer
