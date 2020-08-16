@@ -12,7 +12,7 @@ featured-img: wheelchair
 
 - ***Keywords*** : Power-Assisted, Disturbance Observer, Dynamics and Kalman Filter Observer, Constrained Optimal Control, Model Predicitve Control, Human-Interaction 
 
-Let's say how and why I started my project in `NAVER LABS`.
+Let's say how and why I started my project in <mark style='background-color: #dcffe4'> NAVER LABS </mark>.
 
 I seriously wondered about the practicality of using theories in real robotic applications because my projects were mainly simulation based. 
 To explore this curiosity, I worked at <font color='dodgerblue'> NAVER LABS Robotics group </font>. I seized the opportunity to develop a human-interaction wheelchair controller. 
