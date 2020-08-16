@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: Development of Fitness Automatic Record and Analysis Solution
 summary: Developed the Fitness Automatic Record and Analysis Solution through matlab and bluetooth communications.
 featured-img: health
