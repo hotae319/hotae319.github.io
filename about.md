@@ -11,7 +11,7 @@ I am a robotics engineer who is interested in **control, optimization, motion pl
 ### Education
 `Aug.2019 ~ Present` : Ph.D Student in Control, _UC Berkeley_
 
-`Mar.2012 ~ Aug.2018` : B.S. in Mechanical Engineering , _Seoul National University_, (summa cum laude, honor graduation prize)
+`Mar.2012 ~ Aug.2018` : B.S. in Mechanical Engineering , _Seoul National University_ (summa cum laude)
 
 `Mar.2009 ~ Feb.2012` : _Seoul Science High School_ (for scientific-gifted students)
 
