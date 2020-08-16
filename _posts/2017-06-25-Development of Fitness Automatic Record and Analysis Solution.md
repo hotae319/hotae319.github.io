@@ -20,7 +20,7 @@ Our system saved their excercise records automatically and showed them intuitive
 # Figure about our project
 
 <p align="center">
-  <img src="/assets/health/health.jpg">
+  <img src="/assets/health/health.jpg" width="650" height="400">
 </p>
 
 It is the imu-based device to recognize the movement of athlete and to communicate through bluetooths. 
