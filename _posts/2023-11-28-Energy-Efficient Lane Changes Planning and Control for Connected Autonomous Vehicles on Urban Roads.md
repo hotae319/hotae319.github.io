@@ -14,5 +14,12 @@ featured-img: arpae1
 
 We have related project [website](https://sites.google.com/berkeley.edu/mpcconnectedcars/home/arpa-e-nextcar-phase-ii?authuser=0). I am one of the main developer of intergrated systems on the vehicle/simulator. 
 
+<p align="center">
+  <img src="/assets/arpae/arpae2.png">
+</p>
+
+<p align="center">
+  <img src="/assets/arpae/arpae3.png">
+</p>
 
 TBD..
