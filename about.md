@@ -28,7 +28,7 @@ I am a robotics engineer who is interested in **control, optimization, motion pl
 ---
 
 <U>Now, I am studying in UC Berkeley Ph.D program and working in mpc lab of UC Berkeley as a graduate student researcher.</U> I am financially supported by the Korean Government Ph.D. Scholarship for Studying Overseas.
-You can also search for me at this attached [Curriculum Vitae](https://hotae319.github.io/assets/CV_hotaelee.pdf) or inspect in detail by reading this page [Publication](/publication)
+You can also search for me at this attached [Curriculum Vitae](https://hotae319.github.io/assets/CV_hotae_102224.pdf) or inspect in detail by reading this page [Publication](/publication)
 
 *  **Technical Skills** : C/C++, MATLAB, Arduino, Python, LabView / ROS, TensorFlow, LaTeX, OpenAI gym / SolidWorks, CATIA*
 
