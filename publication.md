@@ -7,7 +7,7 @@ title: Publications
 ## Publication List 
 [google scholar](https://scholar.google.com/citations?user=3XGV9CUAAAAJ&hl=en&oi=ao) 
 
-- **H. Lee** and F.Borrelli, "Fast Stochastic MPC with Affine Disturbance Feedback Policy using Offline Sampling based Feature extraction", 2024 (In preparation)
+- **H. Lee** and F. Borrelli, "Fast Stochastic MPC with Affine Disturbance Feedback Policy using Offline Sampling based Feature extraction", 2024 (In preparation)
 
 - S. H. Nair <sup>* </sup>,  **H. Lee** <sup>* </sup>, E. Joa <sup>*</sup>, et al. "Predictive control for autonomous driving with uncertain, multi-modal predictions", IEEE Transactions on Control Systems Technology, 2024 
 
