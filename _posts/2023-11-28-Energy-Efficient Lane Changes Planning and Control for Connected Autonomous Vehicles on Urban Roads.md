@@ -12,7 +12,7 @@ featured-img: arpae1
 
 - ***Keywords*** : Autonomous Vehicle, Connected Vehicles, Motion Planning, MPC tracking controller, Energy Saving
 
-We have related project [website](https://sites.google.com/berkeley.edu/mpcconnectedcars/home/arpa-e-nextcar-phase-ii?authuser=0). I am one of the main developer of intergrated systems on the vehicle/simulator. 
+We have related project [website](https://sites.google.com/berkeley.edu/mpcconnectedcars/home/arpa-e-nextcar-phase-ii?authuser=0). I am one of the main developer of intergrated systems on the vehicle/simulator. The below figures show our integrated system brifly.
 
 <p align="center">
   <img src="/assets/arpae/arpae2.png">
