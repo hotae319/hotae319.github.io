@@ -27,4 +27,4 @@ Conference (KRoC), Gangwon, Korea, Jan, 2019 &nbsp;&nbsp;&nbsp;&nbsp;
 - J. Kim, M. Kim, **H. Lee**, K. Kim, J. Moon(all co-authors), "AVEC: Power Assist Vehicle Enriching Communication using Intuitive Interface", Student Design Competition and Late-Breaking papars, in Proceedings of the 14th Annual ACM/IEEE International Conference on Human Robot Interaction(HRI), Daegu, Korea, March, 2019  &nbsp;&nbsp;  &nbsp;&nbsp; 
 
 
-* indicates co-first authors
+" * indicates co-first authors"
