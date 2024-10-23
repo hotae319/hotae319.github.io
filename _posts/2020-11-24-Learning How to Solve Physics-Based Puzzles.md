@@ -25,5 +25,5 @@ These are the poster slides about the project.
 
 
 <p align="center">
-  <img src="/assets/bubble_ball/bubble1.png">
+  <img src="/assets/bubble_ball/bubble2.png">
 </p>
