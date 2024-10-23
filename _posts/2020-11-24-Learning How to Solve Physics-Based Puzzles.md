@@ -18,11 +18,11 @@ There is a project website. You can see [this](https://sites.google.com/berkeley
 These are the poster slides about the project.
 
 <p align="center">
-  <img src="/assets/wheelchair/wheelchair.jpg">
+  <img src="/assets/bubble_ball/bubble1.png">
 </p>
 
 
 
 <p align="center">
-  <img src="/assets/wheelchair/control2.jpg">
+  <img src="/assets/bubble_ball/bubble1.png">
 </p>
