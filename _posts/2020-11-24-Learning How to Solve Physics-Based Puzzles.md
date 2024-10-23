@@ -2,6 +2,7 @@
 layout: post
 title: Learning How to Solve Physics-Based Puzzles: Bubble Ball
 summary: Worked on how to solve multi-contact dynamics based games using optimal control and machine learning
+featured-img: 
 
 ---
 
