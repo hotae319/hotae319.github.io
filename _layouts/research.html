@@ -1,0 +1,41 @@
+---
+layout: default
+title: Research
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+{% include head.html %}
+<body>
+  {% include header.html %}
+
+  <main class="research-page">
+    <section class="research-intro">
+      <h1>Research</h1>
+      <p>Explore our latest research results and findings.</p>
+    </section>
+
+    <section class="research-posts">
+      <div class="post-grid">
+        {% for post in site.posts %}
+          <article class="post-card">
+            <a href="{{ post.url | relative_url }}">
+              <h2 class="post-title">{{ post.title }}</h2>
+              <p class="post-summary">
+                {% if post.excerpt %}
+                  {{ post.excerpt | strip_html | truncatewords: 30 }}
+                {% else %}
+                  {{ post.content | strip_html | truncatewords: 30 }}
+                {% endif %}
+              </p>
+            </a>
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+    
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>
