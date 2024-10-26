@@ -31,7 +31,7 @@ title: Research
           <article class="post-card_research">
             <a href="{{ post.url | relative_url }}">
               <h2 class="post-title">{{ post.title }}</h2>
-              <p class="post-summary">
+              <div class="post-summary">
                 {% if post.summary %}
                   {{ post.summary | strip_html | truncatewords:20 }}
                 {% else %}
@@ -42,7 +42,7 @@ title: Research
                 {% else %}
                   {{ post.content | strip_html | truncatewords: 10 }}
                 {% endif %} -->
-              </p>
+              </div>
             </a>
           </article>
         {% endfor %}
