@@ -4,7 +4,7 @@
   flex-direction: column;
   align-items: center; /* Centers content within the page */
   padding: 2rem;
-  max-width: 1000px; /* Limits the maximum width */
+  max-width: 1200px; /* Increased width for larger screens */
   margin: auto; /* Centers the main content area on the page */
   text-align: center;
 }
@@ -24,8 +24,9 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
-  justify-items: center; /* Centers individual grid items */
+  justify-content: center; /* Centers the grid in the container */
   width: 100%; /* Ensures grid takes full width of its container */
+  max-width: 1000px; /* Limits the width for better alignment on larger screens */
 }
 
 .post-card {
@@ -35,6 +36,7 @@
   background-color: #fff;
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   max-width: 300px; /* Consistent width for each card */
+  width: 100%; /* Ensures the card takes full available width in its grid cell */
 }
 
 .post-card:hover {
