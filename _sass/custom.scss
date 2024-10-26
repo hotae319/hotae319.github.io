@@ -65,12 +65,18 @@
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   max-width: 700px; /* Consistent width for each card */
   width: 100%; /* Ensures the card takes full available width in its grid cell */
+
+   &:hover,
+  &:focus {
+    border-bottom: 0;
+    box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
+  }
 }
 
-.post-card_research:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+// .post-card_research:hover {
+//   transform: translateY(-5px);
+//   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+// }
 
 .post-title {
   font-size: 1.5rem;
