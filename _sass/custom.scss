@@ -1,28 +1,31 @@
 /* Research Page Styles */
 .research-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers content within the page */
   padding: 2rem;
-  max-width: 1200px;
-  margin: auto;
-  text-align: center; /* Center align the text */
+  max-width: 1000px; /* Limits the maximum width */
+  margin: auto; /* Centers the main content area on the page */
+  text-align: center;
 }
 
 .research-intro h1 {
   font-size: 2.5rem;
-  text-align: center;
 }
 
 .research-intro p {
-  text-align: center;
   font-size: 1.2rem;
   color: #666;
   margin-bottom: 2rem;
 }
 
+/* Adjusted Grid for Centered Cards */
 .post-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
-  justify-content: center; /* Centers the grid itself */
+  justify-items: center; /* Centers individual grid items */
+  width: 100%; /* Ensures grid takes full width of its container */
 }
 
 .post-card {
@@ -31,8 +34,7 @@
   padding: 1rem;
   background-color: #fff;
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-  max-width: 300px; /* Ensures a consistent width for each card */
-  margin: auto; /* Centers each card within its grid cell */
+  max-width: 300px; /* Consistent width for each card */
 }
 
 .post-card:hover {
