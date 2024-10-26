@@ -6,6 +6,9 @@
   padding: 2rem;
   max-width: 1200px; /* Increased width for larger screens */
   margin: 3.75rem auto 0; /* Centers the main content area on the page */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   
 }
 
