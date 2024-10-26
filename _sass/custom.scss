@@ -12,6 +12,7 @@
 .research-intro h1 {
   font-size: 2.5rem;
   text-align: center;
+  flex: 1;
 }
 
 .research-intro p {
@@ -19,6 +20,7 @@
   color: #666;
   margin-bottom: 2rem;
   text-align: center;
+  flex: 1;
 }
 
 /* Adjusted Grid for Centered Cards */
