@@ -57,7 +57,7 @@
   max-width: 1000px; /* Limits the width for better alignment on larger screens */
 }
 
-.post-card {
+.post-card_research {
   border: 1px solid #ddd;
   border-radius: 5px;
   padding: 1rem;
@@ -67,7 +67,7 @@
   width: 100%; /* Ensures the card takes full available width in its grid cell */
 }
 
-.post-card:hover {
+.post-card_research:hover {
   transform: translateY(-5px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
