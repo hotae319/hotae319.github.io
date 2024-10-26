@@ -6,17 +6,19 @@
   padding: 2rem;
   max-width: 1200px; /* Increased width for larger screens */
   margin: 3.75rem auto 0; /* Centers the main content area on the page */
-  text-align: center;
+  
 }
 
 .research-intro h1 {
   font-size: 2.5rem;
+  text-align: center;
 }
 
 .research-intro p {
   font-size: 1.2rem;
   color: #666;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 /* Adjusted Grid for Centered Cards */
