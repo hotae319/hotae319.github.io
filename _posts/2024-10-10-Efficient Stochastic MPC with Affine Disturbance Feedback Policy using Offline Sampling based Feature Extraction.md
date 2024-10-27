@@ -17,6 +17,7 @@ To extract the feature parameters, we can use feature extraction techniques such
 In this research, we conisder uncertain linear systems with affine disturbance feedback policies. Therefore, SVD can choose the feature policy parameters by ignoring some parameters which 
 do not affect the constraints. Therefore, we can optimize the only feature policy parameters during online optimization so that it can improve computational speed very much.
 
+It can extend to more complex parameterized feedback policy such as DNN. Deep RL basically relies on the DNN as the standard form of control/action policy. The principles of feature extraction of the policy parameters would be helpful to lightweight model development for control policy .  
 
 # Figure about our project
 
