@@ -10,7 +10,54 @@ title: Research
 <body class="site">
   {% include header.html %}
 
+  <style>
+  .post-grid {
+  padding-top: 20px;
+  // padding: 15px 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  place-items: center;  /* Centers the grid in the container */
+  width: 100%; /* Ensures grid takes full width of its container */
+  max-width: 1000px; /* Limits the width for better alignment on larger screens */
+}
 
+.post-card_research {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: #fff;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  max-width: 700px; /* Consistent width for each card */
+  width: 100%; /* Ensures the card takes full available width in its grid cell */
+
+   
+  &:focus {
+    border-bottom: 0;
+    box-shadow: 0 2px 40px 0 hsla(232, 8%, 63%, .3);
+  }
+}
+
+.post-card_research:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  color: $grey;
+  border-bottom: 0;
+  background-color: #f0f0f0;
+}
+
+.post-title {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.post-summary {
+  font-size: 1.0rem;
+  color: #555;
+}
+  </style>
+  
   <div class="hero--small">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ page.title }}</h1>
