@@ -12,7 +12,7 @@ featured-img: arpae1
 
 - ***Keywords*** : Autonomous Vehicle, Connected Vehicles, Motion Planning, MPC tracking controller, Energy Saving
 
-We have related project [website](https://sites.google.com/berkeley.edu/mpcconnectedcars/home/arpa-e-nextcar-phase-ii?authuser=0). I am one of the main developer of intergrated systems on the vehicle/simulator. The below figures show our integrated system brifly.
+We have a related project [website](https://sites.google.com/berkeley.edu/mpcconnectedcars/home/arpa-e-nextcar-phase-ii?authuser=0). I am one of the main developer of intergrated systems on the vehicle/simulator. The below figures show our integrated system brifly.
 
 <p align="center">
   <img src="/assets/arpae/arpae2.png">
@@ -22,4 +22,4 @@ We have related project [website](https://sites.google.com/berkeley.edu/mpcconne
   <img src="/assets/arpae/arpae3.png">
 </p>
 
-TBD..
+The main goal of this project is 1) to develope the connected autonomous vehicle system with V2X communications and Vehicle-In-the-Loop (VIL) integration 2) to develope energy-efficient driving algorithms with eco-cruise longitudinal trajectory and eco-smart lane change planning.
