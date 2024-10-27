@@ -49,7 +49,8 @@
 
 /* Adjusted Grid for Centered Cards */
 .post-grid {
-  padding: 15px 0;
+  padding-top: 20px;
+  // padding: 15px 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
