@@ -15,7 +15,8 @@ title: Research
   padding-top: 20px;
   // padding: 15px 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  grid-auto-rows: 1fr;
   gap: 1.5rem;
   place-items: center;  /* Centers the grid in the container */
   width: 100%; /* Ensures grid takes full width of its container */
@@ -82,7 +83,7 @@ title: Research
                 {% if post.summary %}
                   {{ post.summary | strip_html | truncatewords:20 }}
                 {% else %}
-                  {{ post.content | strip_html | truncatewords: 20 }}
+                  {{ post.content | strip_html | truncatewords: 10 }}
                 {% endif %}
 <!--                 {% if post.excerpt %}
                   {{ post.excerpt | strip_html | truncatewords: 50 }}
