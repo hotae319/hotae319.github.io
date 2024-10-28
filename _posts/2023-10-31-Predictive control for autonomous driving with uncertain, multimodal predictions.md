@@ -8,7 +8,7 @@ featured-img: lane_change
 
 # What I did
 
-- ***Skill*** : Python, ROS2, CARLA 
+- ***Skill*** : Python, ROS2, CARLA, CasADi ipopt
 
 - ***Keywords*** : Autonomous Vehicle, Connected Vehicles, Motion Planning, Stochastic MPC 
 
