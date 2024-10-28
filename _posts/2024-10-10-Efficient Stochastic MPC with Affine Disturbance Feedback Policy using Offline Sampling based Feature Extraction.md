@@ -27,10 +27,3 @@ The proposed approach has similar control performance but much faster computatio
   <img src="/assets/smpc/time_table.png" width="45%" />
 </p>
 
-<p align="center">
-  <img src="/assets/smpc/performance_table.png">
-</p>
-
-<p align="center">
-  <img src="/assets/smpc/time_table.png">
-</p>
