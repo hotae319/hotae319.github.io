@@ -8,7 +8,7 @@ featured-img: arpae1
 
 # What I did
 
-- ***Skill*** : Python, ROS2, CARLA 
+- ***Skill*** : Python, ROS2, CARLA, CasADi ipopt 
 
 - ***Keywords*** : Autonomous Vehicle, Connected Vehicles, Motion Planning, MPC tracking controller, Energy Saving
 
