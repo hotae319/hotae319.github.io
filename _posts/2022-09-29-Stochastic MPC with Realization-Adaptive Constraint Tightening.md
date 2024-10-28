@@ -8,7 +8,7 @@ featured-img: smpc_intuition
 
 # What I did
 
-- ***Skill*** : MATLAB, Gurobi-ipopt
+- ***Skill*** : MATLAB, Yalmip-ipopt
 - ***Keywords*** : Stochastic MPC, Uncertainty, Offline Sampling, Chance Constraints
 
 In this research, I want to use offline sampling approach to make scenario approach style practically tractable and want to propose a new reformulation of chance constraints, where the constraint tightening is computed by adjusting the offline computed sets based on the previously realized disturbances along the trajectory.
