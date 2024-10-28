@@ -16,17 +16,15 @@ We proposed a Stochastic MPC formulation for autonomous driving with multi-modal
 The experiment videos can be accessed at [here](https://drive.google.com/file/d/1EQJmVHb3AExu1rs3Mw4PRdML_TmWqSpW/view?usp=sharing)
 
 Those are the two scenarios we addressed. (Turn left at the intersection, Lane change) 
-<p align="center">
-  <img src="/assets/rfs/carla.png" width="45%">
-</p>
 
-<p align="center">
-  <img src="/assets/rfs/lane_change.png" width="45%">
+<p float="left">
+  <img src="/assets/rfs/carla.png" width="45%" />
+  <img src="/assets/rfs/lane_change.png" width="45%" />
 </p>
 
 This is our hardware/software setup for vehicle in the loop simulation.
 <p align="center">
-  <img src="/assets/rfs/harware_setup_phev.png">
+  <img src="/assets/rfs/harware_setup_phev.png" width="70%">
 </p>
 <p align="center">
   <img src="/assets/rfs/RFS_simvsreal_horz.png">
@@ -36,7 +34,5 @@ This is our control/planning architecture.
 
 <p align="center">
   <img src="/assets/rfs/planner_arch.png" width="45%">
-</p>
-<p align="center">
   <img src="/assets/rfs/diagram_control_arch_fix.png" width="45%">
 </p>
