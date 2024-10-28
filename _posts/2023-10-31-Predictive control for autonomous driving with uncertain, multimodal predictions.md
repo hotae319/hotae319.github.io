@@ -38,6 +38,5 @@ This is our control/planning architecture.
   <img src="/assets/rfs/planner_arch.png">
 </p>
 <p align="center">
-  <img src="/assets/rfs/
-diagram_control_arch_fix.png">
+  <img src="/assets/rfs/diagram_control_arch_fix.png">
 </p>
