@@ -19,6 +19,12 @@ do not affect the constraints. Therefore, we can optimize the only feature polic
 
 It can extend to more complex parameterized feedback policy such as DNN. Deep RL basically relies on the DNN as the standard form of control/action policy. The principles of feature extraction of the policy parameters would be helpful to lightweight model development for control policy .  
 
-# Figure about our project
+The proposed approach has similar control performance but much faster computation as described below.
 
+<p align="center">
+  <img src="/assets/smpc/performance_table.png">
+</p>
 
+<p align="center">
+  <img src="/assets/smpc/time_table.png">
+</p>
