@@ -2,6 +2,7 @@
 layout: post
 title: Predictive control for autonomous driving with uncertain, multimodal predictions
 summary: Proposed a Stochastic MPC formulation for autonomous driving with multi-modal predictions of surrounding vehicles
+featured-img: lane_change
 
 ---
 
