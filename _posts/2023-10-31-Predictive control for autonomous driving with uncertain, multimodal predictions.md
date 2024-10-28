@@ -11,10 +11,33 @@ summary: Proposed a Stochastic MPC formulation for autonomous driving with multi
 
 - ***Keywords*** : Autonomous Vehicle, Connected Vehicles, Motion Planning, Stochastic MPC 
 
+We proposed a Stochastic MPC formulation for autonomous driving with multi-modal predictions of surrounding vehicles. We provide a convex formulation for simultaneously (1) optimizing over parameterized feedback policies and (2) allocating risk levels to each mode for multi-modal chance constraint satisfaction. This enhances the feasibility and closed-loop performance of the SMPC algorithm, as demonstrated by our simulations and hardware experiments.
 
+The experiment videos can be accessed at [here](https://drive.google.com/file/d/1EQJmVHb3AExu1rs3Mw4PRdML_TmWqSpW/view?usp=sharing)
+
+Those are the two scenarios we addressed. (Turn left at the intersection, Lane change) 
 <p align="center">
-  <img src="/assets/arpae/arpae2.png">
+  <img src="/assets/rfs/carla.png">
 </p>
 
+<p align="center">
+  <img src="/assets/rfs/lane_change.png">
+</p>
 
-TBD..
+This is our hardware/software setup for vehicle in the loop simulation.
+<p align="center">
+  <img src="/assets/rfs/harware_setup_phev.png">
+</p>
+<p align="center">
+  <img src="/assets/rfs/RFS_simvsreal_horz.png">
+</p>
+
+This is our control/planning architecture.
+
+<p align="center">
+  <img src="/assets/rfs/planner_arch.png">
+</p>
+<p align="center">
+  <img src="/assets/rfs/
+diagram_control_arch_fix.png">
+</p>
