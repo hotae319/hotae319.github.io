@@ -2,7 +2,7 @@
 layout: post
 title: Stochastic MPC with Realization-Adaptive Constraint Tightening
 summary: Proposed a novel and efficient offline sampled based approach to design a stochastic MPC for constrained linear systems with an additive disturbance
-featured-img:
+featured-img: smpc_intuition
 
 ---
 
