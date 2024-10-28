@@ -8,7 +8,7 @@ featured-img: bubble_ball
 
 # What I did
 
-- ***Skill*** : Python
+- ***Skill*** : Python, contact based physics simulator
 
 - ***Keywords*** : Multi-contact dynamics based game, Graph/Sampling based Path Planning, Hierarchical Planning, Machine Learning based Motion Primitives 
 
