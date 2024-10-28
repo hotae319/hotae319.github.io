@@ -21,3 +21,9 @@ For online MPC implementation, we propose a novel reformulation strategy of the 
 previously realized disturbances along the trajectory.
 The proposed MPC is recursive feasible and can lower conservatism over existing SMPC approaches at the cost of higher offline computational time. Numerical simulations demonstrate
 the effectiveness of the proposed approach.
+
+The performance increase compared to the existing method is described as below in terms of ROA and average costs.
+<p float="left">
+  <img src="/assets/smpc/roa_smpc.png" width="45%" />
+  <img src="/assets/smpc/smpc_table.png" width="45%" />
+</p>
