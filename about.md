@@ -20,8 +20,6 @@ I am a robotics engineer who is interested in **control, optimization, motion pl
 
 `Mar.2017 ~ Jul.2018` : SNU Interactive and Networked Robotics Lab advised by Dongjun Lee
 
-`Jan.2017 ~ Feb.2017` : SNU Biorobotics Lab advised by Kyujin Cho
-
 ### Work Experience
 `Jul.2018 ~ Apr.2019` : NAVER LABS, Robotics Team Intern
 
