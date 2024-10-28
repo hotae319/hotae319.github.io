@@ -30,7 +30,6 @@ navigation: # Navigation links
 
 tagline: |
   Robotics engineer interested in motion planning, optimal control and machine learning
-  
   UC Berkeley Ph.D Candidate in MPC Lab
 
 hero_img: posts/emile-perron-190221_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
