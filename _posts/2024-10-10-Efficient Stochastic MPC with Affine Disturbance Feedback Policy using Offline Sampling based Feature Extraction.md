@@ -21,6 +21,12 @@ It can extend to more complex parameterized feedback policy such as DNN. Deep RL
 
 The proposed approach has similar control performance but much faster computation as described below.
 
+
+<p float="left">
+  <img src="/assets/smpc/performance_table.png" width="45%" />
+  <img src="/assets/smpc/time_table.png" width="45%" />
+</p>
+
 <p align="center">
   <img src="/assets/smpc/performance_table.png">
 </p>
