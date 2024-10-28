@@ -17,11 +17,11 @@ The experiment videos can be accessed at [here](https://drive.google.com/file/d/
 
 Those are the two scenarios we addressed. (Turn left at the intersection, Lane change) 
 <p align="center">
-  <img src="/assets/rfs/carla.png">
+  <img src="/assets/rfs/carla.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="/assets/rfs/lane_change.png">
+  <img src="/assets/rfs/lane_change.png" width="45%">
 </p>
 
 This is our hardware/software setup for vehicle in the loop simulation.
@@ -35,8 +35,8 @@ This is our hardware/software setup for vehicle in the loop simulation.
 This is our control/planning architecture.
 
 <p align="center">
-  <img src="/assets/rfs/planner_arch.png">
+  <img src="/assets/rfs/planner_arch.png" width="45%">
 </p>
 <p align="center">
-  <img src="/assets/rfs/diagram_control_arch_fix.png">
+  <img src="/assets/rfs/diagram_control_arch_fix.png" width="45%">
 </p>
