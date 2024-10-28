@@ -23,3 +23,5 @@ We have a related project [website](https://sites.google.com/berkeley.edu/mpccon
 </p>
 
 The main goal of this project is 1) to develope the connected autonomous vehicle system with V2X communications and Vehicle-In-the-Loop (VIL) integration 2) to develope energy-efficient driving algorithms with eco-cruise longitudinal trajectory and eco-smart lane change planning.
+
+The simple video of our experiments can be accessed [here](https://drive.google.com/file/d/1x7k2sVRhZuAw-Yyivv70HXLnwEGEKVWw/view?usp=sharing)
