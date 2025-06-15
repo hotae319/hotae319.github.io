@@ -21,7 +21,7 @@ I am a robotics engineer who is interested in **motion planning, optimal control
 `Mar.2017 ~ Jul.2018` : SNU Interactive and Networked Robotics Lab advised by Dongjun Lee
 
 ### Work Experience
-`June.2025 ~ Present` : Zoox, Software Engineer in Autonomy Behavior team
+`Jun.2025 ~ Present` : Zoox, Software Engineer in Autonomy Behavior team
 
 `Jul.2018 ~ Apr.2019` : NAVER LABS, Robotics Team Intern
 
