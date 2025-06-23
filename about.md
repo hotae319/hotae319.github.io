@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Intro   
   
-I am a robotics engineer who is interested in **motion planning, optimal control and machine learning**. To be detailed, I am fascinated with some complicated systems with constraints and uncertain interactions in real-world environments. So, I want to improve the control performance under the uncertainties and improve the compuptational efforts for real-time tractability. Also, I am very interested in practical implementations such as autonomous vehicles, robot manipulators, and legged locomotion.
+I am a robotics engineer who is interested in **motion planning and machine learning for decision-making**. To be detailed, I am fascinated with making better autonomous behaivors and better decision-making for real-world complicated systems. Also, I am very interested in practical implementations such as autonomous vehicles, robot manipulators, and humanoids.
 
 ### Education
 `Aug.2019 ~ May.2025` : Ph.D in Control, _UC Berkeley_
